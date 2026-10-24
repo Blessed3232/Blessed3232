@@ -50,20 +50,20 @@ My work spans responsive web applications, automated bot infrastructures, sleek 
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
-      <h3>Dione Launcher</h3>
-      <p><b>Launcher Front-End Development</b></p>
-      <p><i>"Be the best, use the best."</i></p>
-      <p>Complete front-end development of the login panel for Dione products.</p>
+      <h3>Squid External</h3>
+      <p><b>Overlay & External Development</b></p>
+      <p><i>"Precision and invisibility."</i></p>
+      <p>Developed high-performance DirectX overlay rendering and safe external structures with modern UI.</p>
       <br/>
-      <code>C++</code> <code>ImGui</code>
+      <code>C++</code> <code>DirectX</code> <code>ImGui</code>
     </td>
     <td width="50%" align="center" valign="top">
-      <h3>Void Project</h3>
-      <p><b>Front-End & Interface Development</b></p>
-      <p><i>"Engineered for performance."</i></p>
-      <p>In the very near future...</p>
+      <h3>Aspect Woofer</h3>
+      <p><b>Hardware Spoofing & Tooling</b></p>
+      <p><i>"Bypass limitations, secure control."</i></p>
+      <p>Engineered low-level system identification changers, custom drivers, and standalone utilities.</p>
       <br/>
-      <code>Lua</code> <code>API Integration</code>
+      <code>C++</code> <code>Driver</code> <code>Win32 API</code>
     </td>
   </tr>
 </table>
