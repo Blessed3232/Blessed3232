@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="736" height="512" alt="blessed" src="https://github.com/user-attachments/assets/c71289cd-68fc-4ac9-b548-6963c2ca81e4" />
+
 
 # Creating Systems that Stand Out.
 
